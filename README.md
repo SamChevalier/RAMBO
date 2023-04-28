@@ -10,4 +10,4 @@ julia> ]
 pkg> activate .
 ```
 
-Instruction for running the bilevel solver are given in ```generate_OPF_points.jl```. Instructuins for generating randomly sampled benchmark datasets are given in ```generate_OPF_random_points.jl```.
+Instructions for running the bilevel solver are given in ```generate_OPF_points.jl```. Instructions for generating randomly sampled benchmark datasets are given in ```generate_OPF_random_points.jl```.
