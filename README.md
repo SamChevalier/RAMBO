@@ -9,3 +9,5 @@ Before running the code, make sure to activate the virtual environment from ```P
 julia> ]
 pkg> activate .
 ```
+
+Instruction for running the bilevel solver are given in ```generate_OPF_points.jl```. Instructuins for generating randomly sampled benchmark datasets are given in ```generate_OPF_random_points.jl```.
